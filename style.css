@@ -70,11 +70,12 @@ display: flex;
 .card{
     box-shadow: 2px 0px 5px gray;
     border-radius: 20px;
+    text-align: center;
 }
 
 .card img{
     width: 94%;
-    margin-left:3%;
+    
     padding-top: 12px;
 }
 
@@ -86,9 +87,21 @@ display: flex;
 
 .card p{
     margin: 2px 15px 15px 20px;
-    padding-bottom: 40px;
+    padding-bottom: 10px;
     font-size: 17px;
     
+}
+
+button{
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border:none;
+    box-shadow: 2px 0px 5px #775353;
+    background-image: linear-gradient(#da9595,#f14444);
+    margin-bottom: 20px;
+
 }
 
 
