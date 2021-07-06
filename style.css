@@ -54,4 +54,14 @@ display: flex;
 }
 
 
-/* about section css starts here */
+/* about section css ends here */
+
+
+/* recipe section css starts here */
+.recipe-headline{
+    text-align: center;
+   
+    
+}
+
+/* recipe section css ends here */
